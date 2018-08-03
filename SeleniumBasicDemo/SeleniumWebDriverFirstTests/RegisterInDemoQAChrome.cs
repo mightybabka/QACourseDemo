@@ -15,6 +15,7 @@
     [TestFixture]
     public class RegisterInDemoQAChrome
     {
+        //some comment
         private IWebDriver _driver;
         private DraggablePage _draggablePage;
         private SideBarPage _sideBarPage;
